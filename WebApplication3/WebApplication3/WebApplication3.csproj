@@ -167,6 +167,7 @@
     <Content Include="Views\Home\wheretobuy.cshtml" />
     <Content Include="Views\Home\faqs.cshtml" />
     <Content Include="Views\Home\add.cshtml" />
+    <Content Include="Views\Home\shop.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -179,7 +180,7 @@
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\Documents\Visual Studio 2015\Projects\BackEnd\BackEnd\BackEnd.csproj">
+    <ProjectReference Include="..\BackEnd\BackEnd\BackEnd.csproj">
       <Project>{10910da6-675c-4a99-b4a4-6cc2d65a7807}</Project>
       <Name>BackEnd</Name>
     </ProjectReference>

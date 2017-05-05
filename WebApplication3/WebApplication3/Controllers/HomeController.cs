@@ -45,6 +45,10 @@ namespace WebApplication3.Controllers
         {
             return View();
         }
+        public ActionResult shop()
+        {
+            return View();
+        }
 
 
 

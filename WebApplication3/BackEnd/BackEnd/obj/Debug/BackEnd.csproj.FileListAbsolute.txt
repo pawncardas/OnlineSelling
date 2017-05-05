@@ -8,3 +8,13 @@ c:\users\basecamp\documents\visual studio 2015\Projects\BackEnd\BackEnd\bin\Debu
 c:\users\basecamp\documents\visual studio 2015\Projects\BackEnd\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
 c:\users\basecamp\documents\visual studio 2015\Projects\BackEnd\BackEnd\obj\Debug\BackEnd.dll
 c:\users\basecamp\documents\visual studio 2015\Projects\BackEnd\BackEnd\obj\Debug\BackEnd.pdb
+C:\OnlineSellingWeb\OnlineSellingWeb\WebApplication3\BackEnd\BackEnd\bin\Debug\BackEnd.dll.config
+C:\OnlineSellingWeb\OnlineSellingWeb\WebApplication3\BackEnd\BackEnd\bin\Debug\BackEnd.dll
+C:\OnlineSellingWeb\OnlineSellingWeb\WebApplication3\BackEnd\BackEnd\bin\Debug\BackEnd.pdb
+C:\OnlineSellingWeb\OnlineSellingWeb\WebApplication3\BackEnd\BackEnd\bin\Debug\EntityFramework.dll
+C:\OnlineSellingWeb\OnlineSellingWeb\WebApplication3\BackEnd\BackEnd\bin\Debug\EntityFramework.SqlServer.dll
+C:\OnlineSellingWeb\OnlineSellingWeb\WebApplication3\BackEnd\BackEnd\bin\Debug\EntityFramework.xml
+C:\OnlineSellingWeb\OnlineSellingWeb\WebApplication3\BackEnd\BackEnd\bin\Debug\EntityFramework.SqlServer.xml
+C:\OnlineSellingWeb\OnlineSellingWeb\WebApplication3\BackEnd\BackEnd\obj\Debug\BackEnd.csprojResolveAssemblyReference.cache
+C:\OnlineSellingWeb\OnlineSellingWeb\WebApplication3\BackEnd\BackEnd\obj\Debug\BackEnd.dll
+C:\OnlineSellingWeb\OnlineSellingWeb\WebApplication3\BackEnd\BackEnd\obj\Debug\BackEnd.pdb
